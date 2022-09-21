@@ -1,6 +1,6 @@
 # Noah Flanagan
 # Python Sudoku Solving Application
-# Idea from Lockheed Martin Codequest 2019 problems
+# Based on Tech with Tim's version, GUI code copied, logic redone
 import copy
 import pygame
 pygame.init()
